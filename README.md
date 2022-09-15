@@ -27,5 +27,10 @@ This theme is about what parts of campus elicit feelings of inspiration or motiv
 - _Where is research most visible to you?_
 - _Where do you feel an academic sense of belonging?_
 
+# Follow-up Survey
+The aim of the survey is to get information about participants affiliation to DTU.
+- _What is your study programme?_
+- _What semester are you on?_
+- _Are you and expat?_
 
 ## [Back to Main Page](https://campuslifeperspectives.github.io/)
