@@ -31,6 +31,6 @@ This theme is about what parts of campus elicit feelings of inspiration or motiv
 The aim of the survey is to get information about participants affiliation to DTU.
 - _What is your study programme?_
 - _What semester are you on?_
-- _Are you and expat?_
+- _Are you an expat?_
 
 ## [Back to Main Page](https://campuslifeperspectives.github.io/)
